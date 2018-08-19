@@ -1,0 +1,12 @@
+{
+  "extends": "tslint-config-alloy",
+  "globals": {
+      "require": true
+  },
+  "linterOptions": {
+      "exclude": ["**/node_modules/**"]
+  },
+  "rules": {
+
+  }
+}
